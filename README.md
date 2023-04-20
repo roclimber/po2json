@@ -7,7 +7,7 @@
 Convert PO files to Javascript objects or JSON strings. The result is Jed-compatible.
 
 ## Getting Started
-Install the module with: `npm install --save @roclimber/po2json`
+Install the module with: `npm install --save po2json`
 
 ### As a library
 ```
